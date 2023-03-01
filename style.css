@@ -1,0 +1,30 @@
+body {
+    background-image: url('img/bintang.jpg');
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+ul li {
+    list-style: none;
+}
+
+tr th {
+    text-align: center;
+}
+
+tr td {
+    text-align: center;
+}
+
+p {
+    color: red; 
+    font-style: itlic;
+}
